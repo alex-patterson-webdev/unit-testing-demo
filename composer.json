@@ -1,0 +1,15 @@
+{
+  "name" : "alex-patterson-webdev/unit-testing",
+  "description": "Unit testing demo",
+  "require-dev": {
+    "phpunit/phpunit": "^7.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Arp\\Demo\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "ArpTest\\Demo\\": "tests/unit/"
+  }
+}
