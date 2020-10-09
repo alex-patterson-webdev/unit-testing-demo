@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1602191559">
+  <project timestamp="1602191559">
+    <package name="Arp\Demo\Controller">
+      <file name="/home/alex/web/test/unit-testing/src/Controller/AbstractController.php">
+        <class name="Arp\Demo\Controller\AbstractController" namespace="Arp\Demo\Controller" fullPackage="Arp" package="Arp">
+          <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="17" ncloc="10" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+    </package>
+    <package name="Arp\Controller">
+      <file name="/home/alex/web/test/unit-testing/src/Controller/UserController.php">
+        <class name="Arp\Controller\UserController" namespace="Arp\Controller" fullPackage="Arp" package="Arp">
+          <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="14" ncloc="10" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+    </package>
+    <metrics files="2" loc="31" ncloc="20" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+  </project>
+</coverage>
